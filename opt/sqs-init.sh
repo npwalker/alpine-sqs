@@ -1,7 +1,5 @@
 #!/bin/sh 
 
-sleep 30
-
 mkdir -p /opt/config
 
 # First, copy default configs:
